@@ -156,5 +156,6 @@ public class Duke {
             }
         }
         input.close();
+        // closing input
     }
 }
